@@ -142,6 +142,8 @@ Au的快捷键设置是为数不多能让我觉得心服口服的界面。它直
 
 #### [1. doyoudo的audition教程](https://www.bilibili.com/video/av4444053/)
 
+<iframe src="//player.bilibili.com/player.html?aid=4444053&cid=7200986&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 doyoudo是我看过的教程类UP主里面给我印象最深刻的一个。其中主讲Audition的是赵阳光老师。他的声音超好听，Au教程也不拖泥带水全程干货，推荐大家作为**入门教程**。
 
 快看，快去看！
